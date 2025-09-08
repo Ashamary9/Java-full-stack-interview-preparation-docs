@@ -1,0 +1,83 @@
+1. what is oops and its principles ?
+2. what is inheritance , polymporphism, abstraction , encapsulation and how to achieve it 
+3. can we change the return type of method overloading ?
+4. can we change the return type of method overriding?
+5. why method overloading is called compile time polymorphism?
+6. what is wrapper class ? y it is needed ?
+7. d/f string buffer and string builder ?
+8. why string is immutable?
+9. what is initializer block ?
+10. what is static block ?
+11. can we override the static methods?
+12. why main method is static ?
+13. what is covariant ?
+14. what is anonymous class ?
+15. what is anonymous object?
+16. what is exception ?
+17. what is diff between error and exception?
+18. what are the types of exception with example and coding 
+19. why checked exception is called compile time exception ?
+20. what is serialization? and how to achieve it 
+21. method overloading and method overriding
+22. what is hashset and internal working of hashset?
+23. D/b comparator and comparable?
+24. what is functional interface ? and use of it
+25. what is lambda expression and use of it ? how to implement 
+26. what is stream api's
+27. example if u are having list or arraylist with employee age and name,sort the employee by using age ?  
+28. find output?
+
+   int getValue()
+   try{
+        return 1;
+    }catch(Exception e)
+     {
+        throw new Exception()
+        return 2;
+    }
+    finally{
+        return 3;
+    } 
+   
+   int a = getValue();   
+
+30. how many objects are created 
+    
+   a. String str1= new String("John");
+      String str2= new String("John");               
+
+   b. String s4=new String("I am C");     
+      String s1=”I am Java”;     
+      String s3=”I am Java”;
+   
+   c. String s1=”I am Java”;     
+      String s2=”I am C”;     
+      String s3=”I am Java”;
+      String s4=new String("I am C");
+
+31. program to reverse a word 
+32. program to reverse a character 
+33. program for compile time error ?
+34. can we override the private methods?
+35. what are the different ways to create object with demo?
+36. if main method is non static what happens?
+37. abstract class provide 0 to 100% abstraction  why ? reason
+38. interface provides 100% abstraction reason?
+40. what is spring boot ?
+41. how to achieve the data base connection with springboot?
+42. write a code for constructor autowired?
+43. what is hibernate 
+44. what is ORM tool 
+45. what is constructor ? what is the use of constructor ?
+
+
+
+
+
+
+
+
+
+
+
+
